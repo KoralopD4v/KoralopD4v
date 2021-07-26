@@ -7,4 +7,4 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra)](https://discord.gg/premian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=KoralopD4v)](https://discord.gg/premian)
