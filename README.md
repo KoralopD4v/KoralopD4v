@@ -7,7 +7,7 @@
 
 </br>
 
-<img align="center" src="alignhttps://github-readme-stats.vercel.app/api/top-langs/?username=KoralopD4v&layout=compact&text_color=daf7dc&bg_color=151515">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoralopD4v&layout=compact&text_color=daf7dc&bg_color=151515">
 
 
 <h3> 🤝🏻 Connect with Me </h3>
