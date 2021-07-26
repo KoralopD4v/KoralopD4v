@@ -17,7 +17,3 @@ Pocketmine and Discord.js Developer.
 <a href="https://twitter.com/koralop3">
   <img align="left" alt="koralop3" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
-<a href="">
-  <img align="left" alt="KoralopD4v#0001" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
