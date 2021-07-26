@@ -7,7 +7,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/KoralopD4v/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=KoralopD4v&layout=compact&text_color=daf7dc&bg_color=151515)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
