@@ -6,10 +6,8 @@ Pocketmine and Discord.js Developer.
 
 <a href="https://github.com/FckmlDev">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=KoralopD4v&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
-</a>
-<a href="https://github.com/KoralopD4v">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=KoralopD4v&layout=compact&theme=radical/>
-</a>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralopD4v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
