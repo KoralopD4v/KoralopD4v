@@ -7,7 +7,7 @@
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoralopD4v&exclude_repo=github-readme-stats,anuraghazra.github.io">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralopD4v&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
